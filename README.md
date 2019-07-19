@@ -1,5 +1,5 @@
 # myrepo
-testing my setup
-A line I wrote on my local computer
-A second line I wrote from my dell computer
-SSH key installed
+* testing my setup
+* A line I wrote on my local computer
+* A second line I wrote from my dell computer
+* SSH key installed
